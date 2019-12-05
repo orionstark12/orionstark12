@@ -1,0 +1,11 @@
+stylesheet.css
+h1 {color: white; font-size: 24pt;}
+p {color: navy; font-weight: bold;}
+Body { background: lightblue;
+             color: navy;
+             font-size: 16pt;
+             font-family: 'Felipa';
+           }
+a:hover { color: red }
+
+
